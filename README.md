@@ -13,8 +13,8 @@ Welcome to my personal portfolio! This site highlights my work in digital pedago
 - **Creative:** Canva, AI Studio
 
 ## 🚀 Projects
-- [SekolahHub](https://github.com/your-username/sekolahhub) - School Management Web App
-- [Jeda](https://github.com/your-username/jeda) - Teacher Productivity iOS App
+- SekolahHub - School Management Web App
+- Jeda - Teacher Productivity iOS App
 
 ---
 *Built with ❤️ in Malaysia*
